@@ -182,6 +182,6 @@ GROUP BY         → todo campo no agregado debe estar aquí
 
 ### Teófilo Correa Rojas
 
-**Data Analytics | Data Engineering en formación**
+**Tech Project Manager | Transformación Digital**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/teófilo-correa-rojas/)
